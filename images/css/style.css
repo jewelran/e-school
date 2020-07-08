@@ -1,0 +1,166 @@
+.full-contianer{
+    width: 100%;
+    margin:0 auto;
+    display: block;
+}
+
+.row1 img{
+   height:100px;
+}
+.details h1{
+    padding: 1rem;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.card1{
+    height: 200px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.btn_nav{
+    margin-top: 0px;
+    padding: 0px 10px;
+    border: none;
+    border-radius: 50px;
+    padding: 2px 17px;
+}
+.navbar{
+ background-color: #F0FFF0!important;
+}
+.navbar img{
+    width: 100px;
+}
+.left_col,.col_right{
+    padding: 2rem;
+
+}
+.btn_top{
+    background-color: #21B573;
+    border-radius: 23px;
+    padding: 0px 40px;
+}
+.btn{
+    background-color: #21B573;
+    border-radius: 23px;
+    padding: 5px 30px;
+    margin-top: 2rem;
+}
+.cat1,.cat2,.cat3,.cat4{
+    padding: 3rem;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0px #b7b4b4;
+}
+.cat1 h3,.cat2 h3,.cat3 h3,.cat4 h3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.card{
+    border-radius: 10px;
+}
+.card_top{
+    padding: 1rem;
+}
+.card_top img{
+   padding-left: 2rem;
+}
+
+.right_col img{
+    width: 32rem;
+}
+.top_text h1{
+    font-size: 35px;
+    color:black;
+    font-weight: bold;
+
+}
+.top_text{
+    line-height: 22px;
+    margin-top: -2rem;
+    padding-bottom: 9rem;
+
+}
+.top_text h1>span{
+    color: #21B573;
+}
+.top_text  h4{
+    font-weight: bold;
+    font-size: 20px;
+    color: #FD511A;
+
+} 
+.top_text p{
+    color: #666666;
+    font-size: 15px;
+}
+.full_con_bg{
+    background-color: #F0FFF0;
+  
+}
+
+.card_title h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 50px 0px;
+}
+.fa{
+    padding: 10px;
+    font-size: 15px;
+}
+.fa>span{
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exam_title h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px 0px;
+    color: #666;
+}
+.title_img{
+    width: 40%;
+}
+.character{
+    width: 100%;
+    color: #666;
+}
+.row_foot{
+    padding: 50px;
+    color: white;
+
+}
+.foot_link h2{
+    font-weight: bold;
+    font-size: 25px;
+}
+.foot_link li{
+    list-style: none;
+    text-align: center;
+    line-height: 30px;
+}
+.foot_link li a{
+    
+    text-decoration: none;
+    color: white;
+}
+.foot_link li a:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+.row_foot p>span{
+  line-height: 30px;
+  padding-top: 1rem;
+}
+.footer_bg{
+    background-color: #282531;
+    text-align: center;
+}
+.footer p{
+    color: white;
+    padding: 50px;
+}
