@@ -51,7 +51,14 @@
     padding: 3rem;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 0 0 20px 0px #b7b4b4;
+    background: #F0FFF0;
+    transition: all 0.3s ease-in-out;
+}
+.cat1:hover,.cat2:hover,.cat3:hover,.cat4:hover{
+    background: white;
+    box-shadow: 0px 0px 20px #b6b6b6;
+    
+
 }
 .cat1 h3,.cat2 h3,.cat3 h3,.cat4 h3{
     font-size: 20px;
@@ -60,6 +67,7 @@
 .card{
     border-radius: 10px;
 }
+
 .card_top{
     padding: 1rem;
 }
@@ -163,4 +171,6 @@
 .footer p{
     color: white;
     padding: 50px;
+}.contant_bg{
+    margin-bottom: -2px;
 }
